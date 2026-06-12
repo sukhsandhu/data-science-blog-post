@@ -21,6 +21,7 @@ This project analyzes developer survey data to uncover key insights about compen
 
 ```
 ├── README.md                    <- This file
+├── data_science_blog_post.ipynb                  <- Jupyter Notebook with full CRISP-DM analysis
 ├── analysis.py                  <- Main Python analysis script (CRISP-DM)
 ├── index.md                     <- Blog post (GitHub Pages)
 ├── requirements.txt             <- Python package requirements
